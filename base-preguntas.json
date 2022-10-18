@@ -1,0 +1,82 @@
+[
+    {
+        "categoria": "Ciencias Naturales",
+        "pregunta": "¿Que tienen en comun la sandia, la zanahoria y el tomate?",
+        "respuesta": "Son ricos en licopeno y betacarotenos que en verano ayudan a proteger nuestra piel de los efectos del Sol",
+        "incorrecta1": "Que son frutas",
+        "incorrecta2": "Que son verduras",
+        "incorrecta3": "Ninguna de las anteriores",
+        "imagen": "Frutas.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Ciencias Naturales",
+        "pregunta": "¿Que tienen en comun la carne de pollo y la carne de res?",
+        "respuesta": "Todas las anteriores",
+        "incorrecta1": "Las dos se pueden comer",
+        "incorrecta2": "Son proteinas",
+        "incorrecta3": "Es una excelente fuente de energía, por su cantidad de proteínas y aminoácidos esenciales.",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Ciencias Naturales",
+        "pregunta": "¿El agua y la sal son alimentos?",
+        "respuesta": "Si",
+        "incorrecta1": "No",
+        "incorrecta2": "Probablemente",
+        "incorrecta3": "No sé",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Ciencias Naturales",
+        "pregunta": "¿Cuantos tipos de alimentos hay?",
+        "respuesta": "5",
+        "incorrecta1": "10",
+        "incorrecta2": "3",
+        "incorrecta3": "6",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Ciencias Naturales",
+        "pregunta": "¿Que funciones realizan los alimentos en nuestro cuerpo?",
+        "respuesta": "Todas las anteriores",
+        "incorrecta1": "Aportan energia",
+        "incorrecta2": "Aportan sustancias reguladoras",
+        "incorrecta3": "Aportan elementos formadores para el recambio y crecimiento de sus estructuras biológicas",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Matematicas",
+        "pregunta": "¿Que cuerpo geometrico es el siguiente?",
+        "respuesta": "Cubo",
+        "incorrecta1": "Cuadrado",
+        "incorrecta2": "Rectangulo",
+        "incorrecta3": "Hielo",
+        "imagen": "Cubo.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Matematicas",
+        "pregunta": "¿Que cuerpo geometrico es el siguiente?",
+        "respuesta": "Esfera",
+        "incorrecta1": "Circulo",
+        "incorrecta2": "Triangulo",
+        "incorrecta3": "Canica",
+        "imagen": "Esfera.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Matematicas",
+        "pregunta": "¿Que cuerpo geometrico es el siguiente?",
+        "respuesta": "Prisma rectangular",
+        "incorrecta1": "Prisma",
+        "incorrecta2": "Rectangulo",
+        "incorrecta3": "Madera",
+        "imagen": "Prisma.png",
+        "objectFit": "cover"
+    }
+]
